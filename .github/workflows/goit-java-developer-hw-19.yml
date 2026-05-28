@@ -3,7 +3,7 @@ name: goit-java-developer-hw-19
 on:
   pull_request:
     branches:
-      - main
+      - master
 
 jobs:
   test:
